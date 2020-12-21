@@ -1,4 +1,4 @@
-# Dues pràctiques d'introducció a Python i NLTK per alumnes de Llengües Aplicades
+# Dues pràctiques d'introducció a Python i NLTK per a alumnes de Llengües Aplicades
  
  Per fer la pràctica t'has de baixar un llibre en format txt the Gal·laxia Gutenberg.
 
